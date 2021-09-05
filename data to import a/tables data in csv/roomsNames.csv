@@ -1,0 +1,459 @@
+rnRoomNameID,rnRoomTypeID,rnRoomNameEn,rnRoomNameAr
+1,1,Budget Single Room,غرفة اقتصادية مفردة
+2,1,Deluxe Single Room,غرفة ديلوكس مفردة
+3,1,Deluxe Single Room with Balcony,غرفة ديلوكس مفردة مع شرفة
+4,1,Deluxe Single Room with Sea View,غرفة ديلوكس مفردة مطلة على البحر
+5,1,Economy Single Room,غرفة اقتصادية مفردة
+6,1,Large Single Room,غرفة فردية كبيرة
+7,1,New Year's Eve Special - Single Room,ليلة رأس السنة الخاصة - غرفة فردية
+8,1,Single Room,غرفة مفردة
+9,1,Single Room - Disability Access,غرفة مفردة - وصول ذوي الاحتياجات الخاصة
+10,1,Single Room with Balcony,غرفة مفردة مع شرفة
+11,1,Single Room with Bath,غرفة مفردة مع حمام
+12,1,Single Room with Bathroom,غرفة مفردة مع حمام
+13,1,Single Room with Garden View,غرفة مفردة مطلة على الحديقة
+14,1,Single Room with Lake View,غرفة مفردة مطلة على البحيرة
+15,1,Single Room with Mountain View,غرفة مفردة مطلة على الجبل
+16,1,Single Room with Park View,غرفة مفردة مطلة على الحديقة
+17,1,Single Room with Pool View,غرفة مفردة مطلة على المسبح
+18,1,Single Room with Private Bathroom,غرفة مفردة مع حمام خاص
+19,1,Single Room with Private External Bathroom,غرفة مفردة مع حمام خارجي خاص
+20,1,Single Room with Sea View,غرفة مفردة مطلة على البحر
+21,1,Single Room with Shared Bathroom,غرفة مفردة مع حمام مشترك
+22,1,Single Room with Shared Shower and Toilet,غرفة مفردة مع دش ومرحاض مشتركين
+23,1,Single Room with Shared Toilet,غرفة مفردة مع مرحاض مشترك
+24,1,Single Room with Shower,غرفة مفردة مع دش
+25,1,Single Room with Terrace,غرفة مفردة مع تراس
+26,1,Small Single Room,غرفة مفردة صغيرة
+27,1,Standard Single Room,غرفة قياسية مفردة
+28,1,Standard Single Room with Mountain View,غرفة قياسية مفردة مطلة على الجبل
+29,1,Standard Single Room with Sauna,غرفة قياسية مفردة مع ساونا
+30,1,Standard Single Room with Sea View,غرفة قياسية مفردة مطلة على البحر
+31,1,Standard Single Room with Shared Bathroom,غرفة قياسية مفردة مع حمام مشترك
+32,1,Standard Single Room with Shower,غرفة قياسية مفردة مع دش
+33,1,Superior Single Room,غرفة سوبيريور مفردة
+34,1,Superior Single Room with Lake View,غرفة سوبيريور مفردة مطلة على البحيرة
+35,1,Superior Single Room with Sea View,غرفة سوبيريور مفردة مطلة على البحر
+36,2,Budget Double Room,غرفة اقتصادية مزدوجة
+37,2,Business Double Room with Gym Access,غرفة رجال أعمال مزدوجة مع الدخول إلى صالة الألعاب الرياضية
+38,2,Deluxe Double Room,غرفة ديلوكس مزدوجة
+39,2,Deluxe Double Room (1 adult + 1 child),غرفة ديلوكس مزدوجة (شخص بالغ + طفل واحد)
+40,2,Deluxe Double Room (1 adult + 2 children),غرفة ديلوكس مزدوجة (شخص بالغ + طفلان)
+41,2,Deluxe Double Room (2 Adults + 1 Child),غرفة ديلوكس مزدوجة (لشخصين بالغين + طفل واحد)
+42,2,Deluxe Double Room with Balcony,غرفة ديلوكس مزدوجة مع شرفة
+43,2,Deluxe Double Room with Balcony and Sea View,غرفة ديلوكس مزدوجة مع شرفة وإطلالة على البحر
+44,2,Deluxe Double Room with Bath,غرفة ديلوكس مزدوجة مع حوض استحمام
+45,2,Deluxe Double Room with Castle View,غرفة ديلوكس مزدوجة مطلة على القلعة
+46,2,Deluxe Double Room with Extra Bed,غرفة ديلوكس مزدوجة مع سرير إضافي
+47,2,Deluxe Double Room with Sea View,غرفة ديلوكس مزدوجة مطلة على البحر
+48,2,Deluxe Double Room with Shower,غرفة ديلوكس مزدوجة مع دش
+49,2,Deluxe Double Room with Side Sea View,غرفة ديلوكس مزدوجة مع إطلالة جانبية على البحر
+50,2,Deluxe Double or Twin Room,غرفة ديلوكس مزدوجة أو توأم
+51,2,Deluxe King Room,غرفة ديلوكس بحجم كينغ
+52,2,Deluxe Queen Room,غرفة ديلوكس بحجم كوين
+53,2,Deluxe Room,غرفة ديلوكس
+54,2,Deluxe Room (1 adult + 1 child),غرفة ديلوكس (شخص بالغ + طفل واحد)
+55,2,Deluxe Room (1 adult + 2 children),غرفة ديلوكس (شخص بالغ + طفلان)
+56,2,Deluxe Room (2 Adults + 1 Child),غرفة ديلوكس (لشخصين بالغين + طفل واحد)
+57,2,Double Room,غرفة مزدوجة
+58,2,Double Room (1 Adult + 1 Child),غرفة مزدوجة (شخص بالغ + طفل واحد)
+59,2,Double Room - Disability Access,غرفة مزدوجة - وصول ذوي الاحتياجات الخاصة
+60,2,Double Room with Balcony,غرفة مزدوجة مع شرفة
+61,2,Double Room with Balcony (2 Adults + 1 Child),غرفة مزدوجة مع شرفة (شخصين بالغين + طفل واحد)
+62,2,Double Room with Balcony (3 Adults),غرفة مزدوجة مع شرفة (3 أشخاص بالغين)
+63,2,Double Room with Balcony and Sea View,غرفة مزدوجة مع شرفة وإطلالة على البحر
+64,2,Double Room with Extra Bed,غرفة مزدوجة مع سرير إضافي
+65,2,Double Room with Garden View,غرفة مزدوجة مطلة على الحديقة
+66,2,Double Room with Lake View,غرفة مزدوجة مطلة على البحيرة
+67,2,Double Room with Mountain View,غرفة مزدوجة مطلة على الجبل
+68,2,Double Room with Patio,غرفة مزدوجة مع فناء
+69,2,Double Room with Pool View,غرفة مزدوجة مطلة على حمام السباحة
+70,2,Double Room with Private Bathroom,غرفة مزدوجة مع حمام خاص
+71,2,Double Room with Private External Bathroom,غرفة مزدوجة مع حمام خارجي خاص
+72,2,Double Room with Sea View,غرفة مزدوجة مطلة على البحر
+73,2,Double Room with Shared Bathroom,غرفة مزدوجة مع حمام مشترك
+74,2,Double Room with Shared Toilet,غرفة مزدوجة مع مرحاض مشترك
+75,2,Double Room with Spa Bath,غرفة مزدوجة مع حوض سبا
+76,2,Double Room with Terrace,غرفة مزدوجة مع تراس
+77,2,Economy Double Room,غرفة اقتصادية مزدوجة
+78,2,King Room,غرفة الملك
+79,2,King Room - Disability Access,غرفة بحجم كينغ - وصول ذوي الاحتياجات الخاصة
+80,2,King Room with Balcony,غرفة كنغ مع شرفة
+81,2,King Room with Garden View,غرفة كنغ مطلة على الحديقة
+82,2,King Room with Lake View,غرفة كنغ مطلة على البحيرة
+83,2,King Room with Mountain View,غرفة كنغ مطلة على الجبل
+84,2,King Room with Pool View,غرفة كنغ مطلة على المسبح
+85,2,King Room with Roll-In Shower - Disability Access,غرفة بحجم كينغ مع دش متحرك - إمكانية الوصول للمعاقين
+86,2,King Room with Sea View,غرفة كنغ مطلة على البحر
+87,2,King Room with Spa Bath,غرفة كنغ مع حوض سبا
+88,2,Large Double Room,غرفة مزدوجة كبيرة
+89,2,Queen Room,غرفة كوين
+90,2,Queen Room - Disability Access,غرفة كوين - وصول ذوي الاحتياجات الخاصة
+91,2,Queen Room with Balcony,غرفة كوين مع شرفة
+92,2,Queen Room with Garden View,غرفة كوين مطلة على الحديقة
+93,2,Queen Room with Pool View,غرفة كوين مطلة على حمام السباحة
+94,2,Queen Room with Sea View,غرفة كوين مطلة على البحر
+95,2,Queen Room with Shared Bathroom,غرفة كوين مع حمام مشترك
+96,2,Queen Room with Spa Bath,غرفة كوين مع حوض سبا
+97,2,Small Double Room,غرفة مزدوجة صغيرة
+98,2,Standard Double Room,غرفة قياسية مزدوجة
+99,2,Standard Double Room with Fan,غرفة قياسية مزدوجة مع مروحة
+100,2,Standard Double Room with Shared Bathroom,غرفة قياسية مزدوجة مع حمام مشترك
+101,2,Standard King Room,غرفة قياسية بحجم كينغ
+102,2,Standard Queen Room,غرفة كوين عادية
+103,2,Superior Double Room,غرفة سوبيريور مزدوجة
+104,2,Superior King Room,غرفة سوبيريور كينج
+105,2,Superior Queen Room,غرفة كوين سوبيريور
+106,3,Budget Twin Room,غرفة توأم اقتصادية
+107,3,Deluxe Double Room with Two Double Beds,غرفة ديلوكس مزدوجة بسريرين مزدوجين
+108,3,Deluxe Queen Room with Two Queen Beds,غرفة ديلوكس بحجم كوين مع سريرين بحجم كوين
+109,3,Deluxe Twin Room,غرفة ديلوكس توأم
+110,3,Deluxe Twin Room with Sea View,غرفة ديلوكس توأم مطلة على البحر
+111,3,Double Room with Two Double Beds,غرفة مزدوجة بسريرين مزدوجين
+112,3,Economy Twin Room,غرفة توأم اقتصادية
+113,3,King Room with Two King Beds,غرفة كنغ مع سريرين بحجم كينغ
+114,3,Large Twin Room,غرفة توأم كبيرة
+115,3,Queen Room with Two Queen Beds,غرفة كوين مع سريرين بحجم كوين
+116,3,Queen Room with Two Queen Beds - Disability Access,غرفة كوين مع سريرين بحجم كوين - وصول ذوي الاحتياجات الخاصة
+117,3,Small Twin Room,غرفة توأم صغيرة
+118,3,Standard Double Room with Two Double Beds,غرفة قياسية مزدوجة بسريرين مزدوجين
+119,3,Standard Queen Room with Two Queen Beds,غرفة قياسية بحجم كوين مع سريرين بحجم كوين
+120,3,Standard Twin Room,غرفة قياسية توأم
+121,3,Standard Twin Room with Garden View,غرفة قياسية توأم مطلة على الحديقة
+122,3,Standard Twin Room with Mountain View,غرفة قياسية توأم مطلة على الجبل
+123,3,Standard Twin Room with Sea View,غرفة قياسية توأم مطلة على البحر
+124,3,Standard Twin Room with Shared Bathroom,غرفة قياسية توأم مع حمام مشترك
+125,3,Standard Twin Room with Sofa,غرفة قياسية توأم مع أريكة
+126,3,Superior Double Room with Two Double Beds,غرفة سوبيريور مزدوجة بسريرين مزدوجين
+127,3,Superior King or Twin Room,غرفة سوبيريور بحجم كينغ أو توأم
+128,3,Superior Queen Room with Two Queen Beds,غرفة سوبيريور بحجم كوين مع سريرين بحجم كوين
+129,3,Superior Twin Room,غرفة سوبيريور توأم
+130,3,Superior Twin Room with City View,غرفة سوبيريور توأم مطلة على المدينة
+131,3,Superior Twin Room with Garden View,غرفة سوبيريور توأم مطلة على الحديقة
+132,3,Superior Twin Room with Sauna,غرفة سوبيريور توأم مع ساونا
+133,3,Superior Twin Room with Sea View,غرفة سوبيريور توأم مطلة على البحر
+134,3,Twin Room,غرفة مزدوجة
+135,3,Twin Room - Disability Access,غرفة توأمية - وصول للمعاقين
+136,3,Twin Room with Balcony,غرفة توأم مع شرفة
+137,3,Twin Room with Bath,غرفة توأم مع حمام
+138,3,Twin Room with Bathroom,غرفة توأم مع حمام
+139,3,Twin Room with City View,غرفة توأم مطلة على المدينة
+140,3,Twin Room with Extra Bed,غرفة توأم مع سرير إضافي
+141,3,Twin Room with Garden View,غرفة توأم مطلة على الحديقة
+142,3,Twin Room with Lake View,غرفة توأم مطلة على البحيرة
+143,3,Twin Room with Mountain View,غرفة توأم مطلة على الجبل
+144,3,Twin Room with Pool View,غرفة توأم مطلة على حمام السباحة
+145,3,Twin Room with Private Bathroom,غرفة توأم مع حمام خاص
+146,3,Twin Room with Private External Bathroom,غرفة توأم مع حمام خارجي خاص
+147,3,Twin Room with Sea View,غرفة توأم مطلة على البحر
+148,3,Twin Room with Shared Bathroom,غرفة توأم مع حمام مشترك
+149,3,Twin Room with Shared Toilet,غرفة توأم مع مرحاض مشترك
+150,3,Twin Room with Shower,غرفة توأم مع دش
+151,3,Twin Room with Terrace,غرفة توأم مع تراس
+152,3,Twin Room with View,غرفة توأم مع إطلالة
+153,4,Budget Double or Twin Room,غرفة اقتصادية مزدوجة أو توأم
+154,4,Cabin on Boat,المقصورة على متن قارب
+155,4,Deluxe Double or Twin Room,غرفة ديلوكس مزدوجة أو توأم
+156,4,Deluxe Double or Twin Room with Balcony,غرفة ديلوكس مزدوجة أو توأم مع شرفة
+157,4,Deluxe Double or Twin Room with City View,غرفة ديلوكس مزدوجة أو توأم مطلة على المدينة
+158,4,Deluxe Double or Twin Room with Garden View,غرفة ديلوكس مزدوجة أو توأم مطلة على الحديقة
+159,4,Deluxe Double or Twin Room with Lake View,غرفة ديلوكس مزدوجة أو توأم مطلة على البحيرة
+160,4,Deluxe Double or Twin Room with Mountain View,غرفة ديلوكس مزدوجة أو توأم مطلة على الجبل
+161,4,Deluxe Double or Twin Room with Ocean View,غرفة ديلوكس مزدوجة أو توأم مطلة على المحيط
+162,4,Deluxe Double or Twin Room with Pool Access,غرفة ديلوكس مزدوجة أو توأم مع إمكانية الوصول إلى حمام السباحة
+163,4,Deluxe Double or Twin Room with Pool View,غرفة ديلوكس مزدوجة أو توأم مطلة على المسبح
+164,4,Deluxe Double or Twin Room with River View,غرفة ديلوكس مزدوجة أو توأم مطلة على النهر
+165,4,Deluxe Double or Twin Room with Sea View,غرفة ديلوكس مزدوجة أو توأم مطلة على البحر
+166,4,Deluxe Double or Twin Room with Spa Bath,غرفة ديلوكس مزدوجة أو توأم مع حوض سبا
+167,4,Double or Twin Room,غرفتين ام غرفة مزدوجة
+168,4,Double or Twin Room - Disability Access,غرفة مزدوجة أو توأم - يمكن لذوي الاحتياجات الخاصة
+169,4,Double or Twin Room with Balcony,غرفة مزدوجة أو توأم مع شرفة
+170,4,Double or Twin Room with Bathroom,غرفة مزدوجة أو توأم مع حمام
+171,4,Double or Twin Room with Canal View,غرفة مزدوجة أو توأم مطلة على القناة
+172,4,Double or Twin Room with City View,غرفة مزدوجة أو توأم مطلة على المدينة
+173,4,Double or Twin Room with Extra Bed,غرفة مزدوجة أو توأم مع سرير إضافي
+174,4,Double or Twin Room with Garden View,غرفة مزدوجة أو توأم مطلة على الحديقة
+175,4,Double or Twin Room with Harbor View,غرفة مزدوجة أو توأم مطلة على المرفأ
+176,4,Double or Twin Room with Lake View,غرفة مزدوجة أو توأم مطلة على البحيرة
+177,4,Double or Twin Room with Mountain View,غرفة مزدوجة أو توأم مطلة على الجبل
+178,4,Double or Twin Room with Partial Sea View,غرفة مزدوجة أو توأم مطلة جزئياً على البحر
+179,4,Double or Twin Room with Pool View,غرفة مزدوجة أو توأم مطلة على المسبح
+180,4,Double or Twin Room with Private Bathroom,غرفة مزدوجة أو توأم مع حمام خاص
+181,4,Double or Twin Room with Private External Bathroom,غرفة مزدوجة أو توأم مع حمام خارجي خاص
+182,4,Double or Twin Room with Sea View,غرفة مزدوجة أو توأم مطلة على البحر
+183,4,Double or Twin Room with Shared Bathroom,غرفة مزدوجة أو توأم مع حمام مشترك
+184,4,Double or Twin Room with Shower,غرفة مزدوجة أو توأم مع دش
+185,4,Double or Twin Room with Side Sea View,غرفة مزدوجة أو توأم مع إطلالة جانبية على البحر
+186,4,Double or Twin Room with Spa Access,غرفة مزدوجة أو توأم مع إمكانية الوصول إلى السبا
+187,4,Double or Twin Room with Swimming Pool Access,غرفة مزدوجة أو توأم مع الوصول إلى حمام السباحة
+188,4,Double or Twin Room with Terrace,غرفة مزدوجة أو توأم مع تراس
+189,4,Double or Twin Room with View,غرفة مزدوجة أو توأم مع إطلالة
+190,4,Economy Double or Twin Room,غرفة اقتصادية مزدوجة أو توأم
+191,4,Large Double or Twin Room,غرفة كبيرة مزدوجة أو توأم
+192,4,Small Double or Twin Room,غرفة صغيرة مزدوجة أو توأم
+193,4,Standard Cabin on Boat,كابينة قياسية على القارب
+194,4,Standard Double or Twin Room,غرفة قياسية مزدوجة أو توأم
+195,4,Standard Double or Twin Room with Balcony,غرفة قياسية مزدوجة أو توأم مع شرفة
+196,4,Standard Double or Twin Room with Garden View,غرفة قياسية مزدوجة أو توأم مطلة على الحديقة
+197,4,Standard Double or Twin Room with Sea View,غرفة قياسية مزدوجة أو توأم مطلة على البحر
+198,4,Superior Cabin on Boat,كابينة متفوقة على القارب
+199,4,Superior Deluxe Double or Twin Room,غرفة ديلوكس سوبيريور مزدوجة أو توأم
+200,4,Superior Double or Twin Room,غرفة سوبيريور مزدوجة أو توأم
+201,4,Superior Double or Twin Room with City View,غرفة سوبيريور مزدوجة أو توأم مطلة على المدينة
+202,4,Superior Double or Twin Room with Garden View,غرفة سوبيريور مزدوجة أو توأم مطلة على الحديقة
+203,4,Superior Double or Twin Room with Lake View,غرفة سوبيريور مزدوجة أو توأم مطلة على البحيرة
+204,4,Superior Double or Twin Room with Mountain View,غرفة سوبيريور مزدوجة أو توأم مطلة على الجبل
+205,4,Superior Double or Twin Room with Pool View,غرفة سوبيريور مزدوجة أو توأم مطلة على حمام السباحة
+206,4,Superior Double or Twin Room with Sea View,غرفة سوبيريور مزدوجة أو توأم مطلة على البحر
+207,4,Superior Double or Twin Room with Terrace,غرفة سوبيريور مزدوجة أو توأم مع تراس
+208,5,Basic Triple Room,غرفة أساسية ثلاثية
+209,5,Basic Triple Room with Shared Bathroom,غرفة أساسية ثلاثية مع حمام مشترك
+210,5,Budget Triple Room,غرفة ثلاثية اقتصادية
+211,5,Classic Triple Room,غرفة ثلاثية كلاسيكية
+212,5,Comfort Triple Room,غرفة كومفورت ثلاثية
+213,5,Comfort Triple Room with Shower,غرفة كومفورت ثلاثية مع دش
+214,5,Deluxe Triple Room,غرفة ديلوكس ثلاثية
+215,5,Deluxe Triple Room with Sea View,غرفة ديلوكس ثلاثية مطلة على البحر
+216,5,Economy Triple Room,غرفة اقتصادية ثلاثية
+217,5,Economy Triple Room with Shared Bathroom,غرفة اقتصادية ثلاثية مع حمام مشترك
+218,5,Executive Triple Room,غرفة ثلاثية تنفيذية
+219,5,Luxury Triple Room,غرفة ثلاثية فاخرة
+220,5,Standard Triple Room,غرفة قياسية ثلاثية
+221,5,Standard Triple Room with Sea View,غرفة قياسية ثلاثية مطلة على البحر
+222,5,Superior Triple Room,غرفة سوبيريور ثلاثية
+223,5,Superior Triple Room with Sea View,غرفة سوبيريور ثلاثية مطلة على البحر
+224,5,Triple Room,غرفة ثلاثية
+225,5,Triple Room - Disability Access,غرفة ثلاثية - وصول ذوي الاحتياجات الخاصة
+226,5,Triple Room with Balcony,غرفة ثلاثية مع شرفة
+227,5,Triple Room with Bath,غرفة ثلاثية مع حمام
+228,5,Triple Room with Bathroom,غرفة ثلاثية مع حمام
+229,5,Triple Room with City View,غرفة ثلاثية مطلة على المدينة
+230,5,Triple Room with Garden View,غرفة ثلاثية مطلة على الحديقة
+231,5,Triple Room with Lake View,غرفة ثلاثية مطلة على البحيرة
+232,5,Triple Room with Mountain View,غرفة ثلاثية مطلة على الجبل
+233,5,Triple Room with Pool View,غرفة ثلاثية مطلة على حمام السباحة
+234,5,Triple Room with Private Bathroom,غرفة ثلاثية مع حمام خاص
+235,5,Triple Room with Private External Bathroom,غرفة ثلاثية مع حمام خارجي خاص
+236,5,Triple Room with Sea View,غرفة ثلاثية مطلة على البحر
+237,5,Triple Room with Shared Bathroom,غرفة ثلاثية مع حمام مشترك
+238,5,Triple Room with Shared Toilet,غرفة ثلاثية مع مرحاض مشترك
+239,5,Triple Room with Shower,غرفة ثلاثية مع دش
+240,5,Triple Room with Terrace,غرفة ثلاثية مع تراس
+241,5,Triple Room with View,غرفة ثلاثية مع إطلالة
+242,6,Comfort Quadruple Room,غرفة كومفورت رباعية
+243,6,Deluxe Quadruple Room,غرفة ديلوكس رباعية
+244,6,Deluxe Queen Room with Two Queen Beds,غرفة ديلوكس بحجم كوين مع سريرين بحجم كوين
+245,6,Duplex Quadruple Room,غرفة دوبلكس رباعية
+246,6,Economy Quadruple Room,غرفة اقتصادية رباعية
+247,6,Economy Quadruple Room with Shared Bathroom,غرفة اقتصادية رباعية مع حمام مشترك
+248,6,Executive Queen Room with Two Queen Beds,غرفة تنفيذية بحجم كوين مع سريرين بحجم كوين
+249,6,Japanese-Style Quadruple Room,غرفة رباعية على الطراز الياباني
+250,6,King Room with Two King Beds,غرفة كنغ مع سريرين بحجم كينغ
+251,6,Luxury Quadruple Room,غرفة رباعية فاخرة
+252,6,Premium Quadruple Room,غرفة بريميوم رباعية
+253,6,Quadruple Room,غرفة رباعية
+254,6,Quadruple Room - Disability Access,غرفة رباعية - وصول ذوي الاحتياجات الخاصة
+255,6,Quadruple Room with Balcony,غرفة رباعية مع شرفة
+256,6,Quadruple Room with Bath,غرفة رباعية مع حمام
+257,6,Quadruple Room with Bathroom,غرفة رباعية مع حمام
+258,6,Quadruple Room with Garden View,غرفة رباعية مطلة على الحديقة
+259,6,Quadruple Room with Lake View,غرفة رباعية مطلة على البحيرة
+260,6,Quadruple Room with Mountain View,غرفة رباعية مطلة على الجبل
+261,6,Quadruple Room with Private Bathroom,غرفة رباعية مع حمام خاص
+262,6,Quadruple Room with Private External Bathroom,غرفة رباعية مع حمام خارجي خاص
+263,6,Quadruple Room with Sea View,غرفة رباعية مطلة على البحر
+264,6,Quadruple Room with Shared Bathroom,غرفة رباعية مع حمام مشترك
+265,6,Quadruple Room with Shower,غرفة رباعية مع دش
+266,6,Quadruple Room with Terrace,غرفة رباعية مع تراس
+267,6,Queen Room with Two Queen Beds,غرفة كوين مع سريرين بحجم كوين
+268,6,Queen Room with Two Queen Beds - Disability Access,غرفة كوين مع سريرين بحجم كوين - وصول ذوي الاحتياجات الخاصة
+269,6,Standard Quadruple Room,غرفة قياسية رباعية
+270,6,Standard Queen Room with Two Queen Beds,غرفة قياسية بحجم كوين مع سريرين بحجم كوين
+271,6,Superior Quadruple Room,غرفة سوبيريور رباعية
+272,6,Superior Queen Room with Two Queen Beds,غرفة سوبيريور بحجم كوين مع سريرين بحجم كوين
+273,7,Deluxe Family Room,غرفة ديلوكس عائلية
+274,7,Deluxe Family Suite,جناح ديلوكس عائلي
+275,7,Family Bungalow,بنغل عائلي
+276,7,Family Cabin on Boat,كابينة الأسرة على متن قارب
+277,7,Family Double Room,غرفة عائلية مزدوجة
+278,7,Family Junior Suite,جناح جونيور عائلي
+279,7,Family Room,غرفة العائلة
+280,7,Family Room - Disability Access,غرفة عائلية - وصول ذوي الاحتياجات الخاصة
+281,7,Family Room with Balcony,غرفة عائلية مع شرفة
+282,7,Family Room with Bath,غرفة عائلية مع حمام
+283,7,Family Room with Bathroom,غرفة عائلية مع حمام
+284,7,Family Room with Garden View,غرفة عائلية مطلة على الحديقة
+285,7,Family Room with Lake View,غرفة عائلية مطلة على البحيرة
+286,7,Family Room with Mountain View,غرفة عائلية مطلة على الجبل
+287,7,Family Room with Private Bathroom,غرفة عائلية مع حمام خاص
+288,7,Family Room with Sauna,غرفة عائلية مع ساونا
+289,7,Family Room with Sea View,غرفة عائلية مطلة على البحر
+290,7,Family Room with Shared Bathroom,غرفة عائلية مع حمام مشترك
+291,7,Family Room with Shower,غرفة عائلية مع دش
+292,7,Family Room with Side Sea View,غرفة عائلية مع إطلالة جانبية على البحر
+293,7,Family Room with Terrace,غرفة عائلية مع تراس
+294,7,Family Studio,استوديو عائلي
+295,7,Family Suite,جناح الأسرة
+296,7,Family Suite with Balcony,جناح عائلي مع شرفة
+297,7,Japanese-Style Room,غرفة على الطراز الياباني
+298,7,Standard Family Room,غرفة عائلية قياسية
+299,7,Superior Family Room,غرفة عائلية سوبيريور
+300,8,Deluxe Double Studio,استوديو ديلوكس مزدوج
+301,8,Deluxe Junior Suite,جناح جونيور ديلوكس
+302,8,Deluxe King Studio,استوديو ديلوكس كينج
+303,8,Deluxe King Suite,جناح ديلوكس كينج
+304,8,Deluxe Queen Studio,استوديو كوين ديلوكس
+305,8,Deluxe Queen Suite,جناح كوين ديلوكس
+306,8,Deluxe Studio,استوديو ديلوكس
+307,8,Deluxe Suite,جناح ديلوكس
+308,8,Deluxe Suite with Sea View,جناح ديلوكس مطل على البحر
+309,8,Deluxe Suite with Spa Bath,جناح ديلوكس مع حوض سبا
+310,8,Duplex Suite,جناح دوبلكس
+311,8,Executive Suite,الجناح التنفيذي
+312,8,Family Studio,استوديو عائلي
+313,8,Family Suite,جناح الأسرة
+314,8,Junior Suite,جناح صغير
+315,8,Junior Suite with Balcony,جناح جونيور مع شرفة
+316,8,Junior Suite with Canal View,جناح جونيور مطل على القناة
+317,8,Junior Suite with Garden View,جناح جونيور مطل على الحديقة
+318,8,Junior Suite with Mountain View,جناح جونيور مطل على الجبل
+319,8,Junior Suite with Ocean View,جناح جونيور مطل على المحيط
+320,8,Junior Suite with Pool View,جناح جونيور مطل على المسبح
+321,8,Junior Suite with Private Pool,جناح جونيور مع بركة سباحة خاصة
+322,8,Junior Suite with Sauna,جناح جونيور مع ساونا
+323,8,Junior Suite with Sea View,جناح جونيور مطل على البحر
+324,8,Junior Suite with Terrace,جناح جونيور مع تراس
+325,8,King Studio,استوديو كينج
+326,8,King Studio with Sofa Bed,استوديو كينج مع سرير أريكة
+327,8,King Suite,جناح كينج
+328,8,King Suite with Balcony,جناح كينج مع شرفة
+329,8,King Suite with Ocean View,جناح كينج مطل على المحيط
+330,8,King Suite with Pool View,جناح كينج مطل على حمام السباحة
+331,8,King Suite with Sea View,جناح كينج مطل على البحر
+332,8,King Suite with Spa Bath,جناح كينج مع حوض سبا
+333,8,One-Bedroom Suite,جناح بغرفة نوم واحدة
+334,8,Presidential Suite,جناح رئاسي
+335,8,Queen Studio,استوديو كوين
+336,8,Queen Studio - Disability Access,استوديو كوين - وصول ذوي الاحتياجات الخاصة
+337,8,Queen Suite,جناح كوين
+338,8,Queen Suite with Pool View,جناح كوين مطل على المسبح
+339,8,Queen Suite with Sea View,جناح كوين مطل على البحر
+340,8,Queen Suite with Spa Bath,جناح كوين مع حوض سبا
+341,8,Standard Double Suite,جناح قياسي مزدوج
+342,8,Standard Studio,استوديو قياسي
+343,8,Standard Suite,جناح قياسي
+344,8,Standard Triple Studio,استوديو قياسي ثلاثي
+345,8,Studio,ستوديو
+346,8,Studio - Disability Access,استوديو - وصول ذوي الاحتياجات الخاصة
+347,8,Studio with Balcony,استوديو مع شرفة
+348,8,Studio with Garden View,استوديو مطل على الحديقة
+349,8,Studio with Ocean View,استوديو مطل على المحيط
+350,8,Studio with Pool View,استوديو مطل على المسبح
+351,8,Studio with Sea View,استوديو مطل على البحر
+352,8,Studio with Sofa Bed,استوديو مع سرير أريكة
+353,8,Studio with Spa Bath,استوديو مع حمام سبا
+354,8,Studio with Terrace,استوديو مع تراس
+355,8,Suite,جناح
+356,8,Suite with Balcony,جناح مع شرفة
+357,8,Suite with City View,جناح مطل على المدينة
+358,8,Suite with Garden View,جناح مطل على الحديقة
+359,8,Suite with Hot Tub,جناح مع حوض استحمام ساخن
+360,8,Suite with Lake View,جناح مطل على البحيرة
+361,8,Suite with Mountain View,جناح مطل على الجبل
+362,8,Suite with Pool View,جناح مطل على حمام السباحة
+363,8,Suite with Private Pool,جناح مع بركة سباحة خاصة
+364,8,Suite with River View,جناح مطل على النهر
+365,8,Suite with Sauna,جناح مع ساونا
+366,8,Suite with Sea View,جناح مطل على البحر
+367,8,Suite with Spa Access,جناح مع الوصول إلى السبا
+368,8,Suite with Spa Bath,جناح مع حمام سبا
+369,8,Suite with Terrace,جناح مع تراس
+370,8,Superior King Suite,جناح سوبريور كينج
+371,8,Superior Studio,استوديو سوبيريور
+372,8,Superior Suite,جناح سوبيريور
+373,8,Superior Suite with Sea View,جناح سوبيريور مطل على البحر
+374,8,Three-Bedroom Suite,جناح بثلاث غرف نوم
+375,8,Two-Bedroom Suite,جناح بغرفتي نوم
+376,9,Deluxe Double Studio,استوديو ديلوكس مزدوج
+377,9,Deluxe King Studio,استوديو ديلوكس كينج
+378,9,Deluxe Queen Studio,استوديو كوين ديلوكس
+379,9,Deluxe Studio,استوديو ديلوكس
+380,9,Duplex Studio,استوديو دوبلكس
+381,9,Family Studio,استوديو عائلي
+382,9,King Studio,استوديو كينج
+383,9,King Studio with Sofa Bed,استوديو كينج مع سرير أريكة
+384,9,Queen Studio,استوديو كوين
+385,9,Queen Studio - Disability Access,استوديو كوين - وصول ذوي الاحتياجات الخاصة
+386,9,Standard Studio,استوديو قياسي
+387,9,Standard Triple Studio,استوديو قياسي ثلاثي
+388,9,Studio,ستوديو
+389,9,Studio - Disability Access,استوديو - وصول ذوي الاحتياجات الخاصة
+390,9,Studio - Split Level,استوديو - سبليت المستوى
+391,9,Studio with Balcony,استوديو مع شرفة
+392,9,Studio with Garden View,استوديو مطل على الحديقة
+393,9,Studio with Lake View,استوديو مطل على البحيرة
+394,9,Studio with Mountain View,استوديو مطل على الجبل
+395,9,Studio with Ocean View,استوديو مطل على المحيط
+396,9,Studio with Pool View,استوديو مطل على المسبح
+397,9,Studio with Sea View,استوديو مطل على البحر
+398,9,Studio with Sofa Bed,استوديو مع سرير أريكة
+399,9,Studio with Spa Bath,استوديو مع حمام سبا
+400,9,Studio with Terrace,استوديو مع تراس
+401,9,Superior Studio,استوديو سوبيريور
+402,10,Apartment - Ground Floor,شقة - الطابق الأرضي
+403,10,Apartment - Split Level,شقة - سبليت المستوى
+404,10,Apartment With Shared Bathroom,شقة مع حمام مشترك
+405,10,Apartment with Balcony,شقة مع شرفة
+406,10,Apartment with Garden View,شقة مطلة على الحديقة
+407,10,Apartment with Lake View,شقة مطلة على البحيرة
+408,10,Apartment with Mountain View,شقة مطلة على الجبل
+409,10,Apartment with Pool View,شقة مطلة على حمام السباحة
+410,10,Apartment with Sauna,شقة مع ساونا
+411,10,Apartment with Sea View,شقة مطلة على البحر
+412,10,Apartment with Shower,شقة مع دش
+413,10,Apartment with Terrace,شقة مع تراس
+414,10,Deluxe Apartment,شقة ديلوكس
+415,10,Duplex Apartment,شقة دوبلكس
+416,10,Loft,العلية
+417,10,Maisonette,بيت صغير
+418,10,One-Bedroom Apartment,شقة بغرفة نوم واحدة
+419,10,Penthouse Apartment,شقة بنتهاوس
+420,10,Standard Apartment,شقة قياسية
+421,10,Studio Apartment,شقة استوديو
+422,10,Studio Apartment with Sea View,شقة استوديو مطلة على البحر
+423,10,Superior Apartment,شقة سوبيريور
+424,10,Superior Apartment with Sauna,شقة سوبيريور مع ساونا
+425,10,Three-Bedroom Apartment,شقة من 3 غرف نوم
+426,10,Two-Bedroom Apartment,شقة من غرفتي نوم
+427,11,10-Bed Male Dormitory Room,صالة نوم مشتركة للذكور من 10 أسرّة
+428,11,10-Bed Mixed Dormitory Room,صالة نوم مشتركة مختلطة من 10 أسرّة
+429,11,4-Bed Female Dormitory Room,صالة نوم مشتركة للإناث من 4 أسرّة
+430,11,4-Bed Male Dormitory Room,غرفة مكان النَّوم للذكور بـ 4 أسرّة
+431,11,4-Bed Mixed Dormitory Room,صالة نوم مشتركة مختلطة من 4 أسرّة
+432,11,6-Bed Female Dormitory Room,صالة نوم مشتركة للإناث من 6 أسرّة
+433,11,6-Bed Male Dormitory Room,غرفة مكان النَّوم للذكور بـ 6 أسرّة
+434,11,6-Bed Mixed Dormitory Room,مكان النَّوم مختلط مكون من 6 أسرّة
+435,11,8-Bed Female Dormitory Room,صالة نوم مشتركة للإناث من 8 أسرّة
+436,11,8-Bed Male Dormitory Room,غرفة مكان النَّوم للذكور بـ 8 أسرّة
+437,11,8-Bed Mixed Dormitory Room,صالة نوم مشتركة مختلطة من 8 أسرّة
+438,11,Female Dormitory Room,غرفة مكان النَّوم للإناث
+439,11,Male Dormitory Room,غرفة مكان النَّوم للذكور
+440,11,Mixed Dormitory Room,غرفة مكان النَّوم مختلط
+441,12,Bed in 10-Bed Mixed Dormitory Room,سرير في صالة نوم مشتركة مختلطة من 10 أسرّة
+442,12,Bed in 4-Bed Dormitory Room,سرير في صالة نوم مشتركة من 4 أسرّة
+443,12,Bed in 4-Bed Female Dormitory Room,سرير في غرفة مكان النَّوم للإناث من 4 أسرّة
+444,12,Bed in 4-Bed Male Dormitory Room,سرير في غرفة مكان النَّوم للذكور بـ 4 أسرّة
+445,12,Bed in 4-Bed Mixed Dormitory Room,سرير في صالة نوم مشتركة مختلطة من 4 أسرّة
+446,12,Bed in 6-Bed Dormitory Room,سرير في صالة نوم مشتركة من 6 أسرّة
+447,12,Bed in 6-Bed Female Dormitory Room,سرير في غرفة مكان النَّوم للإناث مكونة من 6 أسرّة
+448,12,Bed in 6-Bed Mixed Dormitory Room,سرير في صالة نوم مشتركة مختلطة من 6 أسرّة
+449,12,Bed in 8-Bed Dormitory Room,سرير في صالة نوم مشتركة من 8 أسرّة
+450,12,Bed in 8-Bed Mixed Dormitory Room,سرير في صالة نوم مشتركة مختلطة من 8 أسرّة
+451,12,Bed in Male Dormitory Room,سرير في صالة نوم مشتركة للذكور
+452,12,Bunk Bed in Female Dormitory Room,سرير بطابقين في صالة نوم مشتركة للإناث
+453,12,Bunk Bed in Male Dormitory Room,سرير بطابقين في صالة نوم مشتركة للذكور
+454,12,Bunk Bed in Mixed Dormitory Room,سرير بطابقين في صالة نوم مشتركة مختلطة
+455,12,Single Bed in 10-Bed Dormitory Room,سرير مفرد في صالة نوم مشتركة من 10 أسرّة
+456,12,Single Bed in 4-Bed Dormitory Room,سرير مفرد في صالة نوم مشتركة من 4 أسرّة
+457,12,Single Bed in 6-Bed Dormitory Room,سرير مفرد في صالة نوم مشتركة من 6 أسرّة
+458,12,Single Bed in Dormitory Room,سرير مفرد في صالة نوم مشتركة

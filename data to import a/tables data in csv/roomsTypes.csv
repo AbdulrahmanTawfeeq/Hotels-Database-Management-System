@@ -1,0 +1,13 @@
+rtRoomTypeID,rtRoomTypeEn,rRoomTypeAr
+1,Single,مفردة
+2,Double,مزدوجة
+3,Twin,توأمية
+4,Twin/Double,توأمية/مزدوجة
+5,Triple,غرفة ثلاثية
+6,Quad,غرفة رباعية
+7,Family,عائلية
+8,Suite,جناح
+9,Studio,استوديو
+10,Appartment,شقة
+11,Dorm Room,صالة نوم مشتركة
+12,Bed In Dorm Room,سرير في مكان النَّوم

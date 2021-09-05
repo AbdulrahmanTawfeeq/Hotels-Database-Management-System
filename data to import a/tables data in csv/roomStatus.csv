@@ -1,0 +1,6 @@
+rsRoomStatusID,rsRoomStatus,rsDescription,rsActive
+1,Reserved,all rooms of this type are reserved,1
+2,Available,There are Available rooms for reserving,1
+3,Not-ready,All rooms are not clean or ready yet,1
+4,Construction,All rooms are under construction,1
+5,Closed,All rooms of this type are Closed by hotel,1

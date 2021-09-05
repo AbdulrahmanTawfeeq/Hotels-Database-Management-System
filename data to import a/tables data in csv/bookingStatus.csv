@@ -1,0 +1,6 @@
+bsBookingStatusID,bsStatus,bsDescription
+1,Pending,whating for the hotel to confirm
+2,Canceled-hotel,Canceld by hotel
+3,Canceled-guest,Canceld by the guest or agency
+4,Paid-confirmd,Paid and confirmed
+5,Paid-unconfirmd,Paid but not confirmd by hotel

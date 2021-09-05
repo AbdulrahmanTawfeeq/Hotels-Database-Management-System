@@ -1,0 +1,112 @@
+aID,amenitieOptionID,aAminiteEn,aAmenitesAr
+4,1,Flat-screen TV,تلفزيون بشاشة مسطحة
+5,1,Electric kettle,غلاية كهربائية
+6,1,Balcony,شرفة
+7,1,View,إطلالة
+8,1,Terrace,تراس
+9,2,Clothes rack,حمّالة ملابس
+10,2,Drying rack for clothing,منشر للغسيل
+11,2,Fold-up bed,سرير يمكن طويه
+12,2,Sofa bed,سرير أريكة
+13,2,Air conditioning,تكييف
+14,2,Wardrobe or closet,خزانة
+15,2,Carpeted,أرض مغطاة بالسجاد
+16,2,Dressing Room,غرفة ملابس
+17,2,Extra Long Beds (&gt; 2 metres),أسرّة طويلة (أطول من مترين)
+18,2,Fan,مروحة
+19,2,Fireplace,مدفأة
+20,2,Heating,تدفئة
+21,2,Interconnected room(s) available,تتوفر غرفة / غرف متصلة
+22,2,Ironing Facilities,مكواة
+23,2,Mosquito net,مرافق كي الملابس
+24,2,Private entrance,مدخل خاص
+25,2,Safety Deposit Box,صندوق أمانات
+26,2,Sofa,أريكة
+27,2,Soundproofing,عازل للصوت
+28,2,Seating Area,منطقة جلوس
+29,2,Tile/Marble floor,بلاط / أرضية رخامية
+30,2,Pants Press,مكواة بناطيل
+31,2,Hardwood or parquet floors,أرضيات خشبية
+32,2,Desk,مكتب
+33,2,Hypoallergenic,مضادة للحساسية
+34,2,Cleaning products,أدوات تنظيف
+35,2,Electric blankets,بطانية كهربائية
+36,3,Toilet paper,ورق حمام
+37,3,Bath,حوض استحمام
+38,3,Bidet,شطافة
+39,3,Bath or Shower,حوض استحمام أو دش
+40,3,Private bathroom,حمّام خاص
+41,3,Free toiletries,لوازم استحمام مجانية
+42,3,Hairdryer,مجفف شعر
+43,3,Spa Bath,حوض سبا
+44,3,Shared bathroom,حمّام مشترك
+45,3,Shower,دش
+46,3,Slippers,نعال
+47,3,Toilet,مرحاض
+48,4,Computer,كمبيوتر
+49,4,Game console,مشغل ألعاب
+50,4,Game console – Nintendo Wii,مع مشغل ألعاب Nintendo Wii
+51,4,Game console – PS2,مشغل ألعاب - PS2
+52,4,Game console – PS3,مشغل ألعاب - PS3
+53,4,Game console – Xbox 360,مشغل ألعاب - Xbox 360
+54,4,Laptop,لابتوب
+55,4,iPad,iPad
+56,4,Cable Channels,قنوات كابل
+57,4,CD Player,مشغل CD
+58,4,DVD Player,مشغل DVD
+59,4,Fax,فاكس
+60,4,iPod dock,قاعدة لتشغيل الـ iPod
+61,4,Laptop safe,خزنة لابتوب
+62,4,Flat-screen TV,تلفزيون بشاشة مسطحة
+63,4,Pay-per-view Channels,قنوات مدفوعة
+64,4,Radio,راديو
+65,4,Satellite Channels,قنوات فضائية
+66,4,Telephone,هاتف
+67,4,TV,تلفزيون
+68,4,Video,فيديو
+69,4,Video Games,ألعاب فيديو
+70,4,Blu-ray player,مشغل بلو راي (Blu-ray)
+71,5,Dining area,منطقة لتناول الطعام
+72,5,Dining table,طاولة لتناول الطعام
+73,5,Barbecue,مرافق شواء
+74,5,Stovetop,موقد
+75,5,Toaster,محمصة خبز
+76,5,Electric kettle,غلاية كهربائية
+77,5,Outdoor dining area,منطقة خارجية لتناول الطعام
+78,5,Outdoor furniture,أثاث خارجي
+79,5,Minibar,ميني بار
+80,5,Kitchenette,مطبخ صغير
+81,5,Kitchenware,أدوات مطبخ
+82,5,Microwave,ميكروويف
+83,5,Refrigerator,ثلاجة
+84,5,Tea/Coffee Maker,آلة صنع الشاي / القهوة
+85,5,Coffee machine,آلة صنع القهوة
+86,5,Children's high chair,كرسي مرتفع للأطفال
+87,6,Executive Lounge Access,إمكانية الدخول إلى الصالة التنفيذية
+88,6,Alarm clock,ساعة منبّهة
+89,6,Wake-up service,خدمة إيقاظ
+90,6,Wake Up Service/Alarm Clock,خدمة الإيقاظ / ساعة منبهة
+91,6,Linen,بياضات أسرّة
+92,6,Towels,مناشف
+93,6,Towels/Sheets (extra fee),مناشف / بياضات (بتكلفة إضافية)
+94,7,Balcony,شرفة
+95,7,Patio,باحة
+96,8,View,إطلالة
+97,8,Terrace,تراس
+98,8,City view,إطلالة على المدينة
+99,8,Garden view,إطلالة على الحديقة
+100,8,Lake view,إطلالة على البحيرة
+101,8,Landmark view,إطلالة على معلم
+102,8,Mountain view,إطلالة على الجبل
+103,8,Pool view,إطلالة على المسبح
+104,8,River view,إطلالة على النهر
+105,8,Sea view,إطلالة على البحر
+106,9,Room is situated on the ground floor,الغرفة تقع في الطابق الأرضي
+107,9,Room is entirely wheelchair accessible,الغرفة مجهزة بالكامل لتناسب الضيوف على الكرسي المتحرك
+108,9,Upper floors accessible by elevator,يمكن الوصول إلى الطوابق العلوية عن طريق المصعد
+109,9,Upper floors accessible by stairs only,يمكن الوصول إلى الطوابق العليا عن طريق السلالم فقط
+110,9,Toilet with grab rails,مرحاض بمقابض
+111,10,Baby safety gates,بوابات سلامة للأطفال
+112,10,Board games/puzzles,ألعاب لوحية / ألغاز
+113,10,"Books, DVDs, or music for children",كتب أو دي في دي (DVD) أو موسيقى للأطفال
+114,10,Child safety socket covers,مقابس محمية للأطفال
